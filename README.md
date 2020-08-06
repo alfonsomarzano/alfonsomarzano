@@ -1,6 +1,6 @@
 # Hi there 👋
 
-* 🔭 I'm currently working on migrating WatchTower 1.1 (Log Management Application, written in Rust,C#) to RavenDb
+* 🔭 I'm currently working on extending WatchTower (Log Management Platform written in Rust, C#) with more logfile support
 * 🌱 I'm currently learning Blazor, Rust
 * 👯‍♂️ I'm looking to collaborate on my project https://github.com/alfonsomarzano/MotherRemaster
 * 🤔 I'm looking for help with Rust for Linux Development
