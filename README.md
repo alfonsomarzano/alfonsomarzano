@@ -1,6 +1,6 @@
 # Hi there 👋
 
-* 🔭 I'm currently working on a new Arena FPS codenamed Buletrain.
+* 🔭 I'm currently working on a new Arena FPS codenamed Bulletrain.
 * 🌱 I'm currently learning Unreal Engine 4 & C++
 * 👯‍♂️ I'm looking to collaborate on my project https://github.com/alfonsomarzano/MotherRemaster
 * 🤔 I'm looking for help with NoesisGUI
