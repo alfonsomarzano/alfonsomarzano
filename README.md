@@ -1,10 +1,9 @@
 # Hi there 👋
 
-* 🔭 I'm currently working on RavenDB Support for StackExchange.Exceptional
-* 🌱 I'm currently learning Unreal Engine 4 & C++
-* 👯‍♂️ I'm looking to collaborate on my project https://github.com/alfonsomarzano/MotherRemaster
-* 🤔 I'm looking for help with NoesisGUI
-* 💭 Ask me about C#, ASP.NET, Unity. I'm happy to help!
-* 📬 How to reach me: me@alfonsomarzano.net
-* 😄 Pronouns: he/him
-* ⚡ Fun fact: I don't drink coffee😄
+* 🔭 i'm currently working on Batch processing of 20 year old data.
+* 🌱 i'm currently learning Unreal Engine 4 & C++
+* 👯‍♂️ i'm looking to collaborate on my Remaster project https://github.com/alfonsomarzano/MotherRemaster
+* 🤔 i'm looking for help with NoesisGUI
+* 💭 ask me about Openpyxl, C#, ASP.NET, Unity. I'm happy to help!
+* 📬 how to reach me: Ume@alfonsomarzano.net
+* ⚡ Things i like: Irish Whisky, playing bass guitar
